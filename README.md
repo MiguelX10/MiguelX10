@@ -26,6 +26,9 @@ Estudiante de Ingeniería en Sistemas Computacionales — UVM Campus Zapopan, Gu
 [McFaro](https://github.com/MiguelX10/mcfaro)
 Finalista en el Genius Arena Hackathon (track McDonald's) — Talent Land 2026. PWA que ayuda a familias a gestionar estancias hospitalarias prolongadas en Casa Ronald McDonald. Frontend en Next.js.
 
+**Punto de Venta (POS)**
+Sistema de punto de venta para tiendas de abarrotes/conveniencia. Construido con Electron, React, TypeScript y SQLite, con respaldo automático a Firestore.
+
 ## Contacto
 
 <p>

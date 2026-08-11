@@ -13,7 +13,6 @@
 ### Sobre mí
 
 - Ingeniería en Sistemas Computacionales — **Universidad del Valle de México**, Campus Zapopan
-- Actualmente en **internship profesional** (~100 días, iniciando agosto 2026)
 - Enfocado en desarrollo **frontend y full-stack**
 - Aprendo construyendo: freelance, hackathons y proyectos propios en paralelo
 - Zapopan, Guadalajara, México

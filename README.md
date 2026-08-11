@@ -22,7 +22,6 @@
 
 - Trabajando en **Casa Palmera** — landing page para renta de terrazas familiares
 - Estudiando certificaciones de **Azure**
-- Construyendo micro-SaaS: [devtoolsl.online](https://devtoolsl.online) y [logntools.com](https://logntools.com)
 
 ---
 

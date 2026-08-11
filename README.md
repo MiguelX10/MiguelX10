@@ -21,7 +21,6 @@
 ### Ahora mismo
 
 - Trabajando en **Casa Palmera** — landing page para renta de terrazas familiares
-- Estudiando certificaciones de **Azure**
 
 ---
 

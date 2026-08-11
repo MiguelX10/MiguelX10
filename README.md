@@ -37,5 +37,5 @@ Sistema de punto de venta para tiendas de abarrotes/conveniencia. Construido con
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MiguelX10&show_icons=true&theme=default" alt="GitHub stats" />
+<img src="https://img.shields.io/github/followers/MiguelX10?style=for-the-badge&label=Followers&color=blue&logo=github" />
 </p>

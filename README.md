@@ -17,9 +17,6 @@
 - Aprendo construyendo: freelance, hackathons y proyectos propios en paralelo
 - Zapopan, Guadalajara, México
 
-### Ahora mismo
-
-- Trabajando en **Casa Palmera** — landing page para renta de terrazas familiares
 
 ---
 

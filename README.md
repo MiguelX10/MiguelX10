@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:61DAFB&height=200&section=header&text=Hola,%20soy%20Logan%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniería%20en%20Sistemas%20%7C%20Full-Stack%20Developer%20%7C%20Zapopan,%20MX&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:61DAFB&height=200&section=header&text=Hola,%20soy%20Logan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniería%20en%20Sistemas%20%7C%20Full-Stack%20Developer%20%7C%20Zapopan,%20MX&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/MiguelX10">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+%40+UVM;Frontend+%2B+Full-Stack+Developer;Hago+mundos+3D+con+Three.js+y+Blender;Puntos+de+venta+para+negocios+reales;%F0%9F%A5%88+Finalista+Genius+Arena+%E2%80%94+Talent+Land+2026;Aprendo+construyendo+en+paralelo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+%40+UVM;Frontend+%2B+Full-Stack+Developer;Hago+mundos+3D+con+Three.js+y+Blender;Puntos+de+venta+para+negocios+reales;Finalista+Genius+Arena+%E2%80%94+Talent+Land+2026;Aprendo+construyendo+en+paralelo" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://portafolio-v2-one-flame.vercel.app"><img src="https://img.shields.io/badge/Portafolio_3D-Entra_a_los_Backrooms-F5D547?style=for-the-badge&logo=threedotjs&logoColor=black" /></a>
+<a href="https://portafolio-v2-one-flame.vercel.app"><img src="https://img.shields.io/badge/Portafolio_3D-000000?style=for-the-badge&logo=threedotjs&logoColor=white" /></a>
 <a href="https://linkedin.com/in/miguel-cabral-castro-a4abb13a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:cabrito2012s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -16,39 +16,33 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelX10&layout=compact&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&count_private=true&langs_count=8" alt="Top lenguajes" />
-
-- 🎓 Ingeniería en Sistemas Computacionales — **Universidad del Valle de México**, Campus Zapopan (egreso 2026)
-- 💻 Enfocado en **frontend y full-stack**: Next.js, React, TypeScript, Firebase y React Native/Expo
-- 🧊 Me late lo **3D en la web**: modelo en Blender (con scripts de Python) y lo llevo al navegador con Three.js
-- 🏪 Hago software para **negocios reales**: puntos de venta, landings y e-commerce para negocios de Jalisco
-- 🌱 Aprendo construyendo: hackathons y proyectos propios en paralelo
-- 📍 Zapopan, Guadalajara, México
-- 🗣️ Español nativo · Inglés intermedio
-
-<br clear="right"/>
+- Ingeniería en Sistemas Computacionales — **Universidad del Valle de México**, Campus Zapopan (egreso 2026)
+- Enfocado en **frontend y full-stack**: Next.js, React, TypeScript, Firebase y React Native/Expo
+- Me late lo **3D en la web**: modelo en Blender (con scripts de Python) y lo llevo al navegador con Three.js
+- Hago software para **negocios reales**: puntos de venta, landings y e-commerce para negocios de Jalisco
+- Aprendo construyendo: hackathons y proyectos propios en paralelo
+- Zapopan, Guadalajara, México
+- Español nativo · Inglés intermedio
 
 ---
 
-## 🏆 Logros
+## Logros
 
-| | |
-|---|---|
-| 🥈 | **Finalista — Genius Arena Hackathon, Talent Land 2026** (track McDonald's). Con un equipo de 4 construimos [**McFaro**](https://github.com/MiguelX10/mcfaro), una PWA para las familias de Casa Ronald McDonald México. |
-| 🚀 | **Sitios propios en producción** con dominio, SEO y Search Console: [logntools.com](https://logntools.com) y [devtoolsl.online](https://devtoolsl.online). |
-| 🏪 | **Punto de venta ya operando** con negocios reales y un SaaS de POS en renta mensual en camino. |
+- **Finalista — Genius Arena Hackathon, Talent Land 2026** (track McDonald's). Con un equipo de 4 construimos [**McFaro**](https://github.com/MiguelX10/mcfaro), una PWA para las familias de Casa Ronald McDonald México.
+- **Sitios propios en producción** con dominio, SEO y Search Console: [logntools.com](https://logntools.com) y [devtoolsl.online](https://devtoolsl.online).
+- **Punto de venta ya operando** con negocios reales y un SaaS de POS en renta mensual en camino.
 
 ---
 
-## 🔥 En lo que ando ahorita
+## En lo que ando ahorita
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🟨 [Portafolio 3D](https://portafolio-v2-one-flame.vercel.app)
+### [Portafolio 3D](https://portafolio-v2-one-flame.vercel.app)
 Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va descomponiendo hasta caer (noclip) a los **Backrooms** y termina en un cuarto con tres toboganes hacia munditos de logros, experiencia y más. Modelos hechos con scripts de Blender, pruebas e2e con Playwright y versión `/clasico` accesible.
 
 `Next.js` `Three.js` `R3F` `GSAP` `Zustand` `Blender`
@@ -56,7 +50,7 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 </td>
 <td width="33%" valign="top">
 
-### 🚪 [Escapa de los Backrooms](https://pal-ceneval.vercel.app)
+### [Escapa de los Backrooms](https://pal-ceneval.vercel.app)
 **Juego web de estudio para el EGEL Plus** (CENEVAL). Cada área del examen es un nivel de los Backrooms, cada subárea un pasillo y cada respuesta correcta abre una puerta. Banco de preguntas, motor de juego e interfaz con pruebas.
 
 `Vite` `React` `TypeScript` `R3F` `Firebase` `Vitest`
@@ -64,7 +58,7 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 </td>
 <td width="33%" valign="top">
 
-### 🧾 Puntos de Venta SaaS
+### Puntos de Venta SaaS
 **POS multi-negocio en renta mensual**: un solo código, muchos clientes aislados por datos. Registro de negocios con *custom claims* (negocio, rol, giro), reglas de Firestore y prueba obligatoria de aislamiento entre tenants.
 
 `Next.js 16` `Tailwind v4` `Firebase Auth` `Firestore`
@@ -75,9 +69,9 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
-### 🏪 Puntos de venta
+### Puntos de venta
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -85,14 +79,14 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 | **POS Abarrotes** | Punto de venta para tiendas de abarrotes/conveniencia. Offline-first con respaldo automático a la nube. SRS bajo estándar IEEE 830 | Electron · React · TypeScript · SQLite · Firestore |
 | **Puntos de Venta SaaS** | Plataforma web multi-tenant donde cada negocio renta su POS por mensualidad | Next.js · Tailwind · Firebase |
 
-### 🤖 IA
+### IA
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**Psicoloco**](https://psicologo-flax.vercel.app) | App de apoyo emocional con IA: chat en tiempo real, voz, mood tracking, ejercicios de respiración y diario terapéutico | JavaScript · Claude API · Firebase · Web Speech API |
-| [**McFaro**](https://github.com/MiguelX10/mcfaro) | 🥈 Finalista Genius Arena Hackathon (Talent Land 2026). PWA para familias en Casa Ronald McDonald | Next.js · PWA |
+| [**McFaro**](https://github.com/MiguelX10/mcfaro) | Finalista Genius Arena Hackathon (Talent Land 2026). PWA para familias en Casa Ronald McDonald | Next.js · PWA |
 
-### 🛠️ Herramientas web en producción
+### Herramientas web en producción
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -100,7 +94,7 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 | [**DevTools**](https://devtoolsl.online) | 10 herramientas para desarrolladores, con dominio propio y Search Console | Next.js · Tailwind |
 | [**ConvertPro**](https://conversor-theta.vercel.app) | Conversor universal con 50+ formatos (PDF, video, audio, imágenes) y login social | React · TypeScript · Vite · Firebase Storage |
 
-### 🌐 Sitios y apps
+### Sitios y apps
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -112,7 +106,7 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -142,7 +136,7 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 ### 3D & Animación
 
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/R3F-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" />
 
@@ -174,48 +168,23 @@ Mi portafolio se **recorre caminando**: empieza en un prado *dreamcore*, se va d
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-### 📚 Aprendiendo ahorita
+### Aprendiendo ahorita
 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes_(AKS)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 Estadísticas
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelX10&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=0078D4&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=MiguelX10&hide_border=true&background=0d1117&ring=0078D4&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&locale=es" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🐍 El gusanito de mis contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelX10/MiguelX10/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelX10/MiguelX10/output/github-snake.svg" />
-  <img alt="Gusanito comiéndose mis contribuciones" src="https://raw.githubusercontent.com/MiguelX10/MiguelX10/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Hablemos
+### Hablemos
 
 <a href="mailto:cabrito2012s@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/miguel-cabral-castro-a4abb13a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://portafolio-v2-one-flame.vercel.app"><img src="https://img.shields.io/badge/Portafolio-F5D547?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://portafolio-v2-one-flame.vercel.app"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
